@@ -1,0 +1,5 @@
+Credentials cache: API:B0C61294-371D-40EE-96CA-B6F463D617BC
+        Principal: llo-surd@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Nov 22 12:02:51 2021  Nov 22 22:02:42 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
